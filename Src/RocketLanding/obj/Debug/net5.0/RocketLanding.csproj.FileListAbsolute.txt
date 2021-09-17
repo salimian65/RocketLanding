@@ -1,0 +1,12 @@
+D:\Projects\Test\RocketLanding\Src\RocketLanding\bin\Debug\net5.0\RocketLanding.deps.json
+D:\Projects\Test\RocketLanding\Src\RocketLanding\bin\Debug\net5.0\RocketLanding.dll
+D:\Projects\Test\RocketLanding\Src\RocketLanding\bin\Debug\net5.0\ref\RocketLanding.dll
+D:\Projects\Test\RocketLanding\Src\RocketLanding\bin\Debug\net5.0\RocketLanding.pdb
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.csprojAssemblyReference.cache
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.AssemblyInfoInputs.cache
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.AssemblyInfo.cs
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.dll
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\ref\RocketLanding.dll
+D:\Projects\Test\RocketLanding\Src\RocketLanding\obj\Debug\net5.0\RocketLanding.pdb
